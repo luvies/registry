@@ -63,6 +63,10 @@
     "url": "https://raw.githubusercontent.com/sindresorhus/ky/${b}/",
     "repo": "https://github.com/sindresorhus/ky"
   },
+  "lazy": {
+    "url": "https://raw.githubusercontent.com/luvies/lazy/${b}/lib/",
+    "repo": "https://github.com/luvies/lazy"
+  },
   "lodash": {
     "url": "https://raw.githubusercontent.com/lodash/lodash/${b}/",
     "repo": "https://github.com/lodash/lodash"
